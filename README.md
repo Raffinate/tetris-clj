@@ -9,7 +9,7 @@ This is tetris-clone game written in clojure.
 
     $ java -jar tetris-0.1.0-standalone.jar [args]
 
-    Currently: - arrows to control block. Space - to drop. Esc - start new game.
+    Arrows control block. Space drops block. Esc starts new game.
 
 ## Options
 
